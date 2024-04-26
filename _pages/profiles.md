@@ -23,7 +23,7 @@ profiles:
     more_info: >
       <p>My siblings</p>
 
-    - align: center
+  - align: center
     image: carla.jpg
     content: about_carla.md
     image_circular: false # crops the image to make it circular
