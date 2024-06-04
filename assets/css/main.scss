@@ -21,3 +21,8 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+.larger-image {
+  width: 100%; /* Image will take up 100% of its container's width */
+  height: auto; /* Maintain aspect ratio */
+}
