@@ -3,10 +3,10 @@
     "name": "Miguel Ángel Vargas Castillo",
     "label": "Mathematics student",
     "image": "",
-    "email": "mavargascastillo1@fordham.edu",
+    "email": "mvargascastillo1@fordham.edu",
     "phone": "",
     "url": "https://mavargascastillo1.github.io",
-    "summary": "A Spanish student who is still wondering if New York is better than Madrid.",
+    "summary": "Learning math and other things ",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -32,8 +32,8 @@
     {
       "title": "Dean's Scholarship",
       "date": "2023-08-30",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "awarder": "Fordham University",
+      "url": "https://www.fordham.edu/undergraduate-admission/apply/scholarships-and-grants/",
       "summary": "Awarded to those students who exhibit excellent academic performance in a highly demanding curriculum; as well as present exceptional personal characteristics, commitment, leadership, and service."
     }
   ],
@@ -41,7 +41,7 @@
     {
       "name": "Python",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-brands fa-python",
       "keywords": [
         "Currently improving"
       ]
@@ -51,17 +51,17 @@
     {
       "language": "Spanish",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "fa-solid fa-earth-europe"
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "fa-solid fa-earth-europe"
     },
     {
       "language": "French",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "fa-solid fa-earth-europe"
     }
   ],
   "interests": [
