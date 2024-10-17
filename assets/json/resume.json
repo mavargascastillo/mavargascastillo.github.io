@@ -15,6 +15,17 @@
       "region": "California"
     }
   },
+  "work": [
+    {
+      "name": "BHD International Bank",
+      "position": "Asset Management Summer Intern",
+      "url": "https://www.bhdpanama.com/#1",
+      "startDate": "2024-05-20",
+      "endDate": "2024-07-12",
+      "summary": "Developed a model using VBA and Python to optimize +10 bond portfolios.",
+      "highlights": ["Teamwork"]
+    }
+  ],
   "education": [
     {
       "institution": "Fordham University, New York, USA",
@@ -45,6 +56,14 @@
       "keywords": [
         "Currently improving"
       ]
+    },
+    {
+      "name": "C++",
+      "level": "Master",
+      "icon": "fa-brands fa-cplusplus",
+      "keywords": [
+        "Just started learning"
+      ]
     }
   ],
   "languages": [
@@ -70,6 +89,13 @@
       "icon": "fa-solid fa-wand-sparkles",
       "keywords": [
         "If you could take polyjuice potion, who would you transform into?"
+      ]
+    },
+    {
+      "name": "Football",
+      "icon": "fa-solid fa-futbol",
+      "keywords": [
+        "No, it's not called soccer."
       ]
     }
   ]
