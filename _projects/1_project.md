@@ -6,6 +6,7 @@ img: assets/img/cavalogo.jpg
 importance: 1
 category: work
 related_publications: true
+hidden: false
 ---
 
 I recently participated in the Point72 2024 National Case Competition with my teammates, Santiago Escrucería and Alex Owen. Together, we worked on a stock pitch for CAVA, a Mediterranean-inspired fast-casual restaurant chain. The Mediterranean value proposition of CAVA immediately caught my attention, resonating with my Spanish roots. With the stock up over 200% year-to-date and the fast-casual industry booming—expected to grow from $95 billion to $130 billion by 2028 alongside companies like Chipotle and Sweetgreen—CAVA presented a compelling subject for analysis.

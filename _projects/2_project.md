@@ -3,8 +3,9 @@ layout: page
 title: consulting cup
 description: Consulting project for Walgreens
 img: assets/img/walgreenslogo.png
-importance: 2
+importance: 1
 category: work
+hidden: false
 ---
 
 This past semester, I had the privilege of participating in my university's Consulting Cup, an intensive competition designed to challenge students with real-world business problems and foster critical thinking, teamwork, and innovative problem-solving. Among 28 competing teams, my team of six advanced to the semifinals, an achievement we are incredibly proud of.
