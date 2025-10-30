@@ -16,9 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-¡Hola! My name is Miguel Ángel Vargas and I am a sophomore studying Mathematics and Finance at Fordham University. I am based
-in New York but I was born and raised in Madrid, Spain. My interests lie in how mathematics can be applied to the financial
-services, more particulary to quantitative trading methods. In this website you can find some of the projects I have worked on
-or I am currently working on.
+¡Hola! My name is Miguel Ángel Vargas and I am a third year uni student majoring in Mathematics and Finance at Fordham University. I am based
+in New York but I was born and raised in Madrid, Spain. 
+I like mathematics and trading. 
+Lately I have gotten into the DeFi/Crypto space.
 
-I also like football, chess, and books. 
+I also like football, chess, and books.
+
+*currently studying abroad in Singapore (Fall 2025).

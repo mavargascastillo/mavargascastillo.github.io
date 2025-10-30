@@ -4,7 +4,7 @@ title: CAVA
 description: Stock Pitch Competition for Point72
 img: assets/img/cavalogo.jpg
 importance: 1
-category: work
+category: other
 related_publications: true
 hidden: false
 ---

@@ -4,7 +4,7 @@ title: consulting cup
 description: Consulting project for Walgreens
 img: assets/img/walgreenslogo.png
 importance: 1
-category: work
+category: other
 hidden: false
 ---
 

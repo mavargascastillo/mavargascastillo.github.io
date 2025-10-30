@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Miguel Ángel Vargas Castillo",
-    "label": "Mathematics student",
+    "label": "Mathematics and Finance student",
     "image": "",
     "email": "mvargascastillo1@fordham.edu",
     "phone": "",
@@ -17,6 +17,15 @@
   },
   "work": [
     {
+      "name": "Barclays Bank",
+      "position": "S&T 2026 Summer Intern",
+      "url": "https://www.ib.barclays",
+      "startDate": "2026-06-21",
+      "endDate": "2026-08-21",
+      "summary": "Rotational program across multiple trading desks.",
+      "highlights": ["Teamwork"]
+    },
+    {
       "name": "BHD International Bank",
       "position": "Asset Management Summer Intern",
       "url": "https://www.bhdpanama.com/#1",
@@ -28,6 +37,17 @@
   ],
   "education": [
     {
+      "institution": "Singapore Management University, Singapore",
+      "location": "Singapore",
+      "url": "https://www.smu.edu.sg/",
+      "area": "Mathematics and Finance",
+      "studyType": "Exchange student",
+      "startDate": "2025-08-12",
+      "endDate": "2025-12-05",
+      "GPA": "Pass/Fail",
+      "courses": ["Probability", "Quant Finance", "Advanced Portfolio Management", "Programming for Finance"]
+    },
+    {
       "institution": "Fordham University, New York, USA",
       "location": "New York, USA",
       "url": "https://www.fordham.edu/",
@@ -36,7 +56,7 @@
       "startDate": "2023-08-30",
       "endDate": "2027-05-01",
       "GPA": "3.82",
-      "courses": ["Linear Algebra", "Discrete Mathematics"]
+      "courses": ["Linear Algebra", "Discrete Mathematics", "Number Theory", "Calculus I, II, III"]
     }
   ],
   "awards": [
