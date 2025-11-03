@@ -1,12 +1,12 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Falcon Finance and $FF
+description: A good protocol without too much use for its token
+img: assets/img/ffLogo.png
+redirect: https://medium.com/@miguelxtype/ff-a-good-protocol-without-too-much-use-for-its-token-a25d57a14c73
 importance: 3
 category: work
-hidden: true
+hidden: false
 ---
 
 Every project has a beautiful feature showcase page.
