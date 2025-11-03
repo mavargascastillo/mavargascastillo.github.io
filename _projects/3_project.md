@@ -5,7 +5,7 @@ description: A good protocol without too much use for its token
 img: assets/img/ffLogo.png
 redirect: https://medium.com/@miguelxtype/ff-a-good-protocol-without-too-much-use-for-its-token-a25d57a14c73
 importance: 1
-category: work
+category: crypto
 hidden: false
 ---
 
